@@ -4,7 +4,7 @@
 
 | INPUT | OUTPUT |
 | ------------- | ------------- |
-| <img src="https://github.com/BoguslawObara/cell_protrusions3d/blob/master/im/aft_image.png" width="250"> | <img src="https://github.com/BoguslawObara/cell_protrusions3d/blob/master/im/aft_image_dna.png" width="250"> |
+| <img src="https://github.com/BoguslawObara/dna_afm2d/blob/master/im/aft_image.png" width="250"> | <img src="https://github.com/BoguslawObara/dna_afm2d/blob/master/im/aft_image_dna.png" width="250"> |
 
 Required packages:
 - [local_threshold2d](../../../local_threshold2d)
